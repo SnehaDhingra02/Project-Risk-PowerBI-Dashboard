@@ -40,7 +40,7 @@ The dashboard provides a clear and interactive view of project performance, proj
 | File | Description |
 |------|-------------|
 | `Project Risk Dashboard.pbix` | Power BI dashboard file |
-| `dashboard.png` | Dashboard preview |
+| `Dashboard.png` | Dashboard preview |
 
 ## 🚀 How to Use
 
