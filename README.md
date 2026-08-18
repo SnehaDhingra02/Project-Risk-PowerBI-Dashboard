@@ -15,7 +15,7 @@ The dashboard provides a clear and interactive view of project performance, proj
 
 ## 📈 Dashboard
 
-![Project Risk Dashboard](dashboard.png)
+![Project Risk Dashboard](Dashboard.png)
 
 ## 🔍 Key Features
 
